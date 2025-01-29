@@ -38,5 +38,5 @@ You can download the **Python (PY)** file and run it using Python 3.8 or later, 
 3. Download the **Python (PY)** file.
 4. Run the script:
    ```bash
-   python little_textbox.py
+   python textbox.py
    ```
